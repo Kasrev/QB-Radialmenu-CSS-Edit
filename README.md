@@ -1,7 +1,7 @@
 # QB-Radialmenu-CSS-Edit
 Animasyonlu ve Hoş Pembe Tasarımlı F3 Radial Menu. 
 
-Gereksinimler
+**Gereksinimler**
 
 QBCore Framework (zorunlu)
 
